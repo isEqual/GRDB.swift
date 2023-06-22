@@ -113,6 +113,11 @@ GRDB adheres to [Semantic Versioning](https://semver.org/), with one exception: 
 
 ---
 
+## Next Release
+
+- **New**: [#1397](https://github.com/groue/GRDB.swift/pull/1397) Swift API for creating database views
+
+
 ## 6.15.1
 
 Released June 17, 2023 &bull; [diff](https://github.com/groue/GRDB.swift/compare/v6.15.0...v6.15.1)
